@@ -1,0 +1,7 @@
+{
+    "REDBEAT_SCHEDULER": {
+        "BROKER_URL": "redis://localhost:6379/5",
+        "RESULT_BACKEND": "redis://localhost:6379/6",
+        "REDBEAT_REDIS_URL": "redis://localhost:6379/7"
+    }
+}

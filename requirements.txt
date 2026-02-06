@@ -1,0 +1,6 @@
+flask
+flask_restful
+celery
+celery-redbeat
+
+# Need to install redis-server and start the server before running the celery worker and scheduler.
